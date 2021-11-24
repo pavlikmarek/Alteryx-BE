@@ -1,0 +1,21 @@
+{
+  "firstName": {
+    "type": "string",
+    "required": true,
+    "default": "'Andy'"
+  },
+  "lastName": {
+    "type": "string",
+    "required": true,
+    "default": "'Muller'"
+  },
+  "email": {
+    "type": "string",
+    "required": true,
+    "default": "'andymuller@gmail.com'"
+  },
+  "password": {
+    "type": "string",
+    "required": true
+  }
+}
